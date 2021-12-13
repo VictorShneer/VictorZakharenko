@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorZakharenko
 - 💞️ I’m looking to collaborate on YouTickle (https://github.com/VictorZakharenko/youtube-captions-db)
-- 🌱 I love mountains and Jazz :)
+- 🌱 I love mountains, music and mountains  :)
 - 📫 victor.zakharenko5@gmail.com 
 - telegram @cidersweet
 
